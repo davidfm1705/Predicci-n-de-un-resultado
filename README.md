@@ -1,1 +1,1 @@
-Predicción de un resultado de un partido de futbol. Enlace de google collab por si quiere ver el proyecto entero https://colab.research.google.com/drive/14GpA99M_Vo6TZKXnCt97VcSNJKhHzbGV?usp=sharing
+Proyecto de Deep Learning con redes neuronales. Predicción de un resultado de un partido de futbol. Enlace de google collab por si quiere ver el proyecto entero https://colab.research.google.com/drive/14GpA99M_Vo6TZKXnCt97VcSNJKhHzbGV?usp=sharing
